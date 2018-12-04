@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5c066ee725182573410c65a6
+flag: dfw.enableGoogleTransition
+type: experiment
+name: enable google transition
+value: false
