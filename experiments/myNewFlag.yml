@@ -2,8 +2,6 @@
 # URL: https://app.rollout.io/ex/5c1bf2782dd3e7712b2b771c
 type: experiment
 name: my new flag
-labels:
-  - SoemthingNew
-  - dfdsfsf
+labels: SoemthingNew
 flag: myNewFlag
 value: false
