@@ -3,5 +3,5 @@ type: experiment
 name: my new flag
 flag: myNewFlag
 value:
-  - percentage: 50
+  - percentage: 10
     option: true
