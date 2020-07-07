@@ -2,6 +2,12 @@
 type: experiment
 name: my new flag
 flag: myNewFlag
+conditions:
+  - property:
+      name: rox.app_release
+      operator: semver-ne
+      operand: weqwe
+    value: false
 value:
   - from: 2020-07-07T04:51:43.113Z
     percentage: 0
