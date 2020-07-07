@@ -1,6 +1,5 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5c1bf2782dd3e7712b2b771c
+# This file was edited by Cloudbees Feature Flags
 type: experiment
 name: my new flag
 flag: myNewFlag
-value: false
+value: true
