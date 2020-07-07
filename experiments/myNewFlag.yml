@@ -9,3 +9,6 @@ value:
   - from: 2020-07-28T07:00:00.000Z
     percentage: 100
     option: true
+  - from: 2020-07-31T07:00:00.000Z
+    percentage: 100
+    option: true
