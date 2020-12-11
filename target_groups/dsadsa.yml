@@ -1,0 +1,7 @@
+type: target-group
+name: dsadsa
+conditions:
+  - operator: in-array
+    property: rox.platform
+    operand:
+      - saddsa
