@@ -1,6 +1,8 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 name: my new flag
+description: 'Experiment: my new flag'
+enabled: false
 flag: myNewFlag
 conditions:
   - property:
