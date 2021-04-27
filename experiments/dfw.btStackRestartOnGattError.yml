@@ -2,4 +2,4 @@
 type: experiment
 enabled: false
 flag: dfw.btStackRestartOnGattError
-value: true
+value: false
